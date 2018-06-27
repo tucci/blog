@@ -29,3 +29,14 @@ Since users would use the notifications differently depending on each list, I ha
 Like any project, there are always the small things that seem easy when thinking about it, but on further inspection small things that should have taken a day, took weeks. Overall I am extremely happy about the end product. I plan on continually fixing bugs, making the user experience better, and I have some big features coming in the next version.
 
 ## The Outcome
+
+{:.row}
+
+![](/assets/rememberize/feature.jpg){: .col-12}
+![](/assets/rememberize/lock screen.jpg){: .col-4 }
+![](/assets/rememberize/edit list.jpg){: .col-4 }
+![](/assets/rememberize/single list.jpg){: .col-4 }
+![](/assets/rememberize/list settings.jpg){: .col-4 }
+![](/assets/rememberize/search.jpg){: .col-4 }
+![](/assets/rememberize/edit list item.jpg){: .col-4 }
+

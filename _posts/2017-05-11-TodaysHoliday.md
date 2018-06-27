@@ -25,3 +25,11 @@ Another big issue with holidays is that certain that they do not happen on the s
 Anything to deal with dates or time in programming is always a hassle, but these things do not stop me from building products that I want and love.
 
 ## The Outcome
+
+{:.row}
+
+![](/assets/todaysholiday/banner.jpg){: .col-12}
+![](/assets/todaysholiday/screenshot1.webp){: .col-4}
+![](/assets/todaysholiday/screenshot2.webp){: .col-4}
+![](/assets/todaysholiday/screenshot3.webp){: .col-4}
+

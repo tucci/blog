@@ -23,3 +23,8 @@ The biggest challenge building this chrome extension was making the user experie
 One big issue that still needs to be fixed is muting the music on the browser when it casts to the Chromecast. Currently, there is no way to natively mute a chrome tab with javascript, and Soundcloud doesn’t load the music as an audio tag. Once these things are implemented, I am going to immediately fix this issue.
 
 ## The Outcome
+
+{:.row}
+
+![](/assets/soundcloudcast/screenshot.jpg){: .col-12}
+At the bottom of the screenshot where the player is, the chromecast button has been injected by my chromecast extension.
