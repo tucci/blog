@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Ai - Quake Style Multiplayer Shooter in Unity"
+title:  "Projekt Ai - Quake Style Multiplayer Shooter in Unity"
 author: "Steven"
 ---
 
@@ -8,7 +8,7 @@ author: "Steven"
 This was a school game project done in the span of a couple of weeks
 Game is not really polished or up to standards I would like.
 
-[See On Github](https://github.com/tucci/comp442-compiler)
+[See On Github](https://github.com/tucci/Projekt-AI)
 
 
 ##  Features

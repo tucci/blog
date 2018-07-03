@@ -6,7 +6,7 @@ author: "Steven"
 
 Implemented in OpenGL. Every object seen is procedurally generated. From the paintings, rooms, and center sculptures. Every time you run it, you get a different art gallery.
 
-[See On Github](https://github.com/tucci/comp442-compiler)
+[See On Github](https://github.com/tucci/ProceduralArtGallery)
 
 ## Features
 - Procdural Generation of rooms, paintings, and sculptures in the middle of the room

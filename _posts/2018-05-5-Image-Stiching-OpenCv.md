@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Panoramic Image Sticher- Computer Vision/OpenCV"
+title:  "Panoramic Image Stitcher - Computer Vision/OpenCV"
 author: "Steven"
 ---
 
 
 This is implemented in C++ using Open CV. All the stiching, interest point, feature descriptors are done manually. I only use opencv to put the data in a common format(Mats).
 
-[See On Github](https://github.com/tucci/comp442-compiler)
+[See On Github](https://github.com/tucci/Panoramic-Image-Stitcher)
 
 ##  The Challenges
 - Extract interest points using a harris detector
@@ -32,6 +32,9 @@ Simple SSD on the feature descriptors matched
 RANSAC applied to the matches for a higher quality match
 
 ![]({{site.url}}/assets/computer_vision/stiched.png){: .col-12}
-Final Stiched image, with some simple image blending
+2 Stiched images, with some simple image blending
+
+![]({{site.url}}/assets/computer_vision/AllStitched.png){: .col-12}
+Final Stiched image, with multiple stitchings and blended
 
 

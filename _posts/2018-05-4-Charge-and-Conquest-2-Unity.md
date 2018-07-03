@@ -10,7 +10,7 @@ The player starts from one side of the map, and the goal is to conquer the entir
 
 The overall setting of the game takes place in the World War II era where a civil war is happening between factions. The player spawns as the commander of the rebel army, and has to charge and conquer the territory in order to put an end to the civil war. Players will be able to fight against two different boss that will slow down his march against peace, and command his troops to conquer with him. 
 
-[See On Github](https://github.com/tucci/comp442-compiler)
+[See On Github](https://github.com/tucci/Charge-Conquest2)
 
 ## Mechanics
 - Top down shooting
