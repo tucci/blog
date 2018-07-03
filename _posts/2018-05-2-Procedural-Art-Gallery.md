@@ -19,14 +19,14 @@ Implemented in OpenGL. Every object seen is procedurally generated. From the pai
 
 {:.row}
 
-![](/assets/art_gallery/Centerpiece_Room_View_1.png){: .col-12}
-![](/assets/art_gallery/Centerpiece_Room_View_4.png){: .col-12}
-![](/assets/art_gallery/Centerpiece_Room_View_5.png){: .col-12}
-![](/assets/art_gallery/Hall_View_2.png){: .col-12}
-![](/assets/art_gallery/Hall_View_4.png){: .col-12}
-![](/assets/art_gallery/Paintings_View_2.png){: .col-12}
-![](/assets/art_gallery/Paintings_View_4.png){: .col-12}
-![](/assets/art_gallery/Paintings_View_5.png){: .col-12}
-![](/assets/art_gallery/Room_Gen_1.png){: .col-12}
-![](/assets/art_gallery/Room_Gen_4.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Centerpiece_Room_View_1.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Centerpiece_Room_View_4.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Centerpiece_Room_View_5.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Hall_View_2.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Hall_View_4.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Paintings_View_2.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Paintings_View_4.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Paintings_View_5.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Room_Gen_1.png){: .col-12}
+![]({{site.url}}/assets/art_gallery/Room_Gen_4.png){: .col-12}
 

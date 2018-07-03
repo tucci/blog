@@ -26,5 +26,5 @@ One big issue that still needs to be fixed is muting the music on the browser wh
 
 {:.row}
 
-![](/assets/soundcloudcast/screenshot.jpg){: .col-12}
+![]({{site.url}}/assets/soundcloudcast/screenshot.jpg){: .col-12}
 At the bottom of the screenshot where the player is, the chromecast button has been injected by my chromecast extension.

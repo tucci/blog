@@ -37,16 +37,16 @@ Game is not really polished or up to standards I would like.
 
 {: .row}
 
-![](/assets/3d_shooter/img4.png){: .col-12}
+![]({{site.url}}/assets/3d_shooter/img4.png){: .col-12}
 Screenshot of one of the maps
 
-![](/assets/3d_shooter/img1.png){: .col-12}
+![]({{site.url}}/assets/3d_shooter/img1.png){: .col-12}
 First person view in game showing weapon pickups
 
-![](/assets/3d_shooter/img2.png){: .col-12}
+![]({{site.url}}/assets/3d_shooter/img2.png){: .col-12}
 Another First person view in game on another map
 
-![](/assets/3d_shooter/img3.png){: .col-12}
+![]({{site.url}}/assets/3d_shooter/img3.png){: .col-12}
 Top Down design of a map
 
 <iframe class="col-12" src="https://drive.google.com/file/d/17qJcdFBsO75CdNEY5mPBiWiYkQrvy2yB/preview" width="640" height="480"></iframe>

@@ -32,11 +32,11 @@ Like any project, there are always the small things that seem easy when thinking
 
 {:.row}
 
-![](/assets/rememberize/feature.jpg){: .col-12}
-![](/assets/rememberize/lock screen.jpg){: .col-4 }
-![](/assets/rememberize/edit list.jpg){: .col-4 }
-![](/assets/rememberize/single list.jpg){: .col-4 }
-![](/assets/rememberize/list settings.jpg){: .col-4 }
-![](/assets/rememberize/search.jpg){: .col-4 }
-![](/assets/rememberize/edit list item.jpg){: .col-4 }
+![]({{site.url}}/assets/rememberize/feature.jpg){: .col-12}
+![]({{site.url}}/assets/rememberize/lock screen.jpg){: .col-4 }
+![]({{site.url}}/assets/rememberize/edit list.jpg){: .col-4 }
+![]({{site.url}}/assets/rememberize/single list.jpg){: .col-4 }
+![]({{site.url}}/assets/rememberize/list settings.jpg){: .col-4 }
+![]({{site.url}}/assets/rememberize/search.jpg){: .col-4 }
+![]({{site.url}}/assets/rememberize/edit list item.jpg){: .col-4 }
 

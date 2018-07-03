@@ -41,25 +41,25 @@ The overall setting of the game takes place in the World War II era where a civi
 {: .row}
 
 
-![](/assets/charge_conquest2/title_screen.png){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/title_screen.png){: .col-12}
 Title Screen
 
-![](/assets/charge_conquest2/top_down_cover.jpg){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/top_down_cover.jpg){: .col-12}
 Top Down Map Layout with Capture Points
 
-![](/assets/charge_conquest2/top_down_lanes.jpg){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/top_down_lanes.jpg){: .col-12}
 Red Team Lane Branching
 
-![](/assets/charge_conquest2/group_formation.png){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/group_formation.png){: .col-12}
 Grouping with squad
 
-![](/assets/charge_conquest2/pathfinding.png){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/pathfinding.png){: .col-12}
 Pathfinding On Map
 
-![](/assets/charge_conquest2/waypoints.png){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/waypoints.png){: .col-12}
 Waypoint System. Each yellow box is either a cover point or ambush point
 
-![](/assets/charge_conquest2/coverpoints.png){: .col-12}
+![]({{site.url}}/assets/charge_conquest2/coverpoints.png){: .col-12}
 Waypoint Searching
 
 <iframe class="col-12" width="1423" height="622" src="https://www.youtube.com/embed/IPaKDSmjazY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

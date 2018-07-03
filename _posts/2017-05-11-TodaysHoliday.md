@@ -28,8 +28,8 @@ Anything to deal with dates or time in programming is always a hassle, but these
 
 {:.row}
 
-![](/assets/todaysholiday/banner.jpg){: .col-12}
-![](/assets/todaysholiday/screenshot1.webp){: .col-4}
-![](/assets/todaysholiday/screenshot2.webp){: .col-4}
-![](/assets/todaysholiday/screenshot3.webp){: .col-4}
+![]({{site.url}}/assets/todaysholiday/banner.jpg){: .col-12}
+![]({{site.url}}/assets/todaysholiday/screenshot1.webp){: .col-4}
+![]({{site.url}}/assets/todaysholiday/screenshot2.webp){: .col-4}
+![]({{site.url}}/assets/todaysholiday/screenshot3.webp){: .col-4}
 

@@ -19,19 +19,19 @@ This is implemented in C++ using Open CV. All the stiching, interest point, feat
 
 
 ## The Outcome
-![](/assets/computer_vision/points_1.png){: .col-12}
+![]({{site.url}}/assets/computer_vision/points_1.png){: .col-12}
 Original left image with feature descriptors detected
 
-![](/assets/computer_vision/points_2.png){: .col-12}
+![]({{site.url}}/assets/computer_vision/points_2.png){: .col-12}
 Original right image with feature descriptors detected
 
-![](/assets/computer_vision/matches.png){: .col-12}
+![]({{site.url}}/assets/computer_vision/matches.png){: .col-12}
 Simple SSD on the feature descriptors matched
 
-![](/assets/computer_vision/filtered_matches.png){: .col-12}
+![]({{site.url}}/assets/computer_vision/filtered_matches.png){: .col-12}
 RANSAC applied to the matches for a higher quality match
 
-![](/assets/computer_vision/stiched.png){: .col-12}
+![]({{site.url}}/assets/computer_vision/stiched.png){: .col-12}
 Final Stiched image, with some simple image blending
 
 
