@@ -39,6 +39,8 @@ Cegep Vanier
 + SQL
 + PHP
 + HTML5 (Javascript/CSS) 
++ Unit Testing, Refactoring
++ Optimization and Debugging, and able to understand the disassembly
 
 ### Programming Experience with
 + OpenGL / 3d Graphics / Rendering / Shader Programming
@@ -49,9 +51,8 @@ Cegep Vanier
 + Android Development
 
 
-### Non Programming Skills
-+ Technical  Writing/Documentation
-+ Testing
+### Other  Skills
++ Technical Writing/Documentation
 + Limited 3d Modelling (Maya/Blender)
 + Substance Painter
 + Photoshop
