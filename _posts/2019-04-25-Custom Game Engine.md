@@ -97,7 +97,7 @@ I always loved programming tools to support other programmers and artists to hel
 - Understand what the compiler can and can't do for me
 
 # Things I learned/Implemented
-
+- Work Ethic, Self Discipline, and Consistency. I worked on this for at least an hour everyday.
 - Physically Based Rendering with HDR [Followed the learnopengl tutorial](https://learnopengl.com/PBR/Theory)
 - HDR Skybox for IBL(Image Based Lighting)
 - ECS using a Data Oriented Design
@@ -141,10 +141,16 @@ Showing a wood material
 An early prototype of the editor using QT
 
 ![]({{site.url}}/assets/gameengine/imgui_editor.png){: .col-12}
-Editor moved and reimplemented in ImGui. (Still a prototype and unfinished)
+Editor moved and reimplemented in ImGui. (Early ui)
 
-![]({{site.url}}/assets/gameengine/Engine_8UYXxVbiNY.png){: .col-12}
-Editor with a 4 panel Layout. 
+![]({{site.url}}/assets/gameengine/Engine_Qk40NZYm1U.png){: .col-12}
+Editor with default layout
+
+![]({{site.url}}/assets/gameengine/Engine_xEhLLv1aRc.png){: .col-12}
+Editor with a 4 panel Layout
+
+![]({{site.url}}/assets/gameengine/ChtOkIY4wW-min.gif){: .col-12}
+Basic scripting and animation of entities
 
 
 
