@@ -13,6 +13,5 @@ permalink: /contact/
 
 [Github](https://github.com/tucci)
 
-[Android Developer Page](https://play.google.com/store/apps/developer?id=Steven+Tucci)
 
 
