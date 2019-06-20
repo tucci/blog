@@ -2,6 +2,12 @@
 layout: post
 title:  "Panoramic Image Stitcher - Computer Vision/OpenCV"
 author: "Steven"
+
+img_preview_1 : "/assets/computer_vision/stiched.png"
+img_preview_2 : "/assets/computer_vision/filtered_matches.png"
+img_preview_3 : "/assets/computer_vision/AllStitched.png"
+
+
 ---
 
 

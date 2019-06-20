@@ -2,6 +2,10 @@
 layout: post
 title:  "Projekt Ai - Quake Style Multiplayer Shooter in Unity"
 author: "Steven"
+
+img_preview_1 : "/assets/3d_shooter/img2.png"
+img_preview_2 : "/assets/3d_shooter/img1.png"
+img_preview_3 : "/assets/3d_shooter/img3.png"
 ---
 
 

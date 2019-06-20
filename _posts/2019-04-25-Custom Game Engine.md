@@ -2,6 +2,10 @@
 layout: post
 title:  "3D Game Engine Written in C++"
 author: "Steven"
+img_preview_1 : "/assets/gameengine/Engine_xEhLLv1aRc.png"
+img_preview_2 : "/assets/gameengine/glossy_marble.png"
+img_preview_3 : "/assets/gameengine/gold_head.png"
+img_preview_4 : "/assets/gameengine/Engine_Qk40NZYm1U.png"
 ---
 
 

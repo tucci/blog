@@ -2,6 +2,13 @@
 layout: post
 title:  "Procedural Art Gallery in OpenGL"
 author: "Steven"
+
+
+img_preview_1 : "/assets/art_gallery/Centerpiece_Room_View_1.png"
+img_preview_2 : "/assets/art_gallery/Hall_View_2.png"
+img_preview_3 : "/assets/art_gallery/Paintings_View_2.png"
+img_preview_4 : "/assets/art_gallery/Centerpiece_Room_View_5.png"
+
 ---
 
 Implemented in OpenGL. Every object seen is procedurally generated. From the paintings, rooms, and center sculptures. Every time you run it, you get a different art gallery.

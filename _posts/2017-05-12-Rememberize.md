@@ -2,6 +2,12 @@
 layout: post
 title:  "Rememberize"
 author: "Steven"
+
+img_preview_1 : "/assets/rememberize/lock screen.jpg"
+img_preview_2 : "/assets/rememberize/edit list.jpg"
+img_preview_3 : "/assets/rememberize/search.jpg"
+
+
 ---
 
 

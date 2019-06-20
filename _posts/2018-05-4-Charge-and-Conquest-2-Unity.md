@@ -2,6 +2,12 @@
 layout: post
 title:  "Charge And Conquest 2 - Top Down Game in Unity"
 author: "Steven"
+
+img_preview_1 : "/assets/charge_conquest2/top_down_cover.jpg"
+img_preview_2 : "/assets/charge_conquest2/group_formation.png"
+img_preview_3 : "/assets/charge_conquest2/pathfinding.png"
+img_preview_4 : "/assets/charge_conquest2/coverpoints.png"
+
 ---
 
 Charge and Conquest 2 is a top down shooter that takes the mechanics from various popular games such as Dynasty Warriors series, Battlerite, and Company of Heroes. 

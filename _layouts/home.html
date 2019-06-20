@@ -12,8 +12,12 @@ layout: default
 
         <p>
           {{ post.content | strip_html | truncatewords: 30 }}
+		  
         </p>
-
+		<img src="{{ post.img_preview_1 }}" style="width:24%; display:inline">
+		<img src="{{ post.img_preview_2 }}" style="width:24%; display:inline">
+		<img src="{{ post.img_preview_3 }}" style="width:24%; display:inline">
+		<img src="{{ post.img_preview_4 }}" style="width:24%; display:inline">
       </div>
     </a>
   {% endfor %}
